@@ -97,9 +97,11 @@ if __name__ == "__main__":
 
 ## Output
 
-![alt text](cn4.jpg)
+<img width="1554" height="927" alt="Screenshot 2025-10-16 112209" src="https://github.com/user-attachments/assets/18c6d817-32fa-4154-9798-7058575203f2" />
 
-![alt text](tracer.jpg)
+
+<img width="1552" height="931" alt="Screenshot 2025-10-16 112228" src="https://github.com/user-attachments/assets/68f9e28b-fa9e-42e2-908f-15b4c23324d7" />
+
 
 ## Result
 Thus Execution of Network commands Performed 
